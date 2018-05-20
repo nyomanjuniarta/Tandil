@@ -47,7 +47,7 @@ public class GenerateContext {
 				for(int i = 0; i < items.length - 1; i++){ // ignoring -2 in the end of sequence
 					elements = items[i].split(" ");
 					durationArray[intMap.get(elements[0])] += Integer.parseInt(elements[1]);
-					ratingArray[intMap.get(elements[0])] = elements[2];
+					ratingArray[intMap.get(elements[0])] = elements[2].substring(elements[2].length() - 1);
 				}
 				for(int k2 = 0; k2 < numberOfItems; k2++){
 					if(durationArray[k2] == 0){
@@ -59,7 +59,12 @@ public class GenerateContext {
 					else{
 						writerDurCsv.print("," + durationArray[k2]/100000);
 					}
-					writerRtgCsv.print("," + ratingArray[k2]);
+					if(ratingArray[k2].equals("1")){
+						writerRtgCsv.print(",10");
+					}
+					else{
+						writerRtgCsv.print("," + ratingArray[k2]);
+					}
 				}
 				writerDurCsv.println();
 				writerRtgCsv.println();
