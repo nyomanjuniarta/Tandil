@@ -1,0 +1,20 @@
+1d024cbab5ff4490,_Old_Build 60159 0 -1 Freedom_an 517986 0 -1 Alien_infl 410975 0.8 -1 The_underg 931702 1 -1 The_man_wh 167066 0.6 -1 Have_you_e 381287 0.8 -1 Argentina' 387187 0.6 -1 -2
+211641fc70293302,_Old_Build 227761 0.8 -1 Alien_infl 117719 1 -1 Argentina' 610552 0.6 -1 Who_is_the 23542 0 -1 Freedom_an 233584 1 -1 Who_is_the 31028 0 -1 -2
+381551a3be844713,_Old_Build 229430 0.8 -1 Freedom_an 136016 0 -1 Alien_infl 64101 0.8 -1 Freedom_an 42364 0 -1 Alien_infl 8003 0 -1 Freedom_an 127406 0 -1 Alien_infl 17212 0 -1 Freedom_an 17206 0 -1 Do_you_kno 86943 0.8 -1 Antique_ma 44327 0.6 -1 Tandil_tou 39947 0.8 -1 Do_you_kno 12359 0.8 -1 Freedom_an 1466 0 -1 The_best_i 34627 1 -1 Do_you_kno 1653 0.8 -1 Freedom_an 2419 0 -1 The_best_i 2615 1 -1 Do_you_kno 1205 0.8 -1 The_best_i 1776 1 -1 Do_you_kno 625 0.8 -1 Take_a_bit 162210 0 -1 Bingo_! 518207 0.4 -1 What_does_ 141825 1 -1 Meet_the_f 157021 0 -1 Bingo_! 71490 0.4 -1 What_does_ 1418464 0.4 -1 Bingo_! 2013 0.4 -1 Meet_the_f 4352 0 -1 Have_you_e 140463 1 -1 Alien_infl 13650 0 -1 -2
+3e3fd899d9bed3a4,A_landmark 986 1 -1 -2
+43d6a2cbdb4f659a,_Old_Build 194592 1 -1 Freedom_an 449045 1 -1 Alien_infl 352243 0.6 -1 The_underg 369013 0.8 -1 The_man_wh 181953 0.6 -1 Have_you_e 133565 1 -1 Argentina' 119952 1 -1 -2
+4e6c40c5436d5f4c,_Old_Build 653630 0.2 -1 Freedom_an 41272 0.6 -1 Plaza_del_ 189848 0 -1 Theatre_on 52434 0.6 -1 Bingo_! 58845 0.8 -1 -2
+5c172f6a6f2b6f65,_Old_Build 28837 0 -1 Alien_infl 58917 0 -1 Freedom_an 448160 0 -1 The_underg 1323 0 -1 Alien_infl 30556 0 -1 The_underg 7354 0 -1 The_man_wh 82681 0 -1 Meet_the_f 36478 0 -1 Bingo_! 29766 0 -1 Freedom_an 31596 0 -1 -2
+65b78c5adf5c8746,_Old_Build 58951 0 -1 Do_you_kno 47217 1 -1 A_landmark 78578 1 -1 -2
+67ffeec1d19c0440,_Old_Build 688247 0.6 -1 Do_you_kno 19730 0 -1 Meet_the_f 151655 0.8 -1 Bingo_! 137319 0.4 -1 The_man_wh 353015 0 -1 Tandil_tou 109567 0.6 -1 Meet_the_f 3841 0 -1 -2
+6b498993fa3f5d1f,Freedom_an 498185 1 -1 The_man_wh 242830 0.8 -1 Meet_the_f 55026 0 -1 -2
+6cf9cebf7b50d4c8,_Old_Build 256025 1 -1 Freedom_an 35587 0.4 -1 _Old_Build 8398 1 -1 Freedom_an 366532 0.4 -1 Alien_infl 94874 0.2 -1 _Old_Build 39410 1 -1 Alien_infl 7066 0.2 -1 _Old_Build 14185 1 -1 Alien_infl 66342 0.8 -1 _Old_Build 36703 1 -1 The_underg 332226 0 -1 The_man_wh 331294 0 -1 Have_you_e 114169 0.6 -1 Argentina' 953256 0.8 -1 The_underg 27701 0.6 -1 Freedom_an 94430 0.4 -1 _Old_Build 17509 1 -1 The_underg 676482 0.6 -1 The_man_wh 286585 0 -1 -2
+7a1e8970d8b9c101,_Old_Build 120072 0.6 -1 Do_you_kno 70533 1 -1 _Old_Build 160033 0.6 -1 Tandil_tou 48358 1 -1 _Old_Build 4722 0.6 -1 Tandil_tou 5312 1 -1 Do_you_kno 6214 1 -1 -2
+9532326214adc358,_Old_Build 26944 0.6 -1 Do_you_kno 59086 0.6 -1 Freedom_an 46743 0.8 -1 Alien_infl 49480 0.6 -1 Argentina' 82071 0.6 -1 Who_is_the 35492 0.6 -1 Freedom_an 47275 0.8 -1 -2
+ae200714b9e37173,_Old_Build 61019 0.8 -1 Freedom_an 151859 1 -1 Alien_infl 158012 1 -1 Plaza_del_ 362497 0.8 -1 Historical 133975 0.6 -1 -2
+b23223591eb8d9a2,Freedom_an 496026 0.8 -1 Alien_infl 247972 0.8 -1 Plaza_del_ 307917 0.8 -1 Historical 3587192 0.6 -1 Alien_infl 3971 0.8 -1 Plaza_del_ 27421 0.8 -1 Freedom_an 9421 0.8 -1 Alien_infl 34215 0.8 -1 -2
+c174444f99dea046,_Old_Build 101424 1 -1 Freedom_an 401925 1 -1 The_man_wh 62379 1 -1 Meet_the_f 28806 1 -1 -2
+cce033f1f58e2bd3,Tandil_tou 0 0 -1 -2
+dc5bf415341bf912,_Old_Build 471388 0.8 -1 The_underg 117041 0 -1 The_man_wh 462867 0.6 -1 Meet_the_f 1505084 1 -1 Tandil_tou 10458 0 -1 The_underg 907183 0 -1 -2
+f816c4543b753fcf,_Old_Build 184013 1 -1 Take_a_bit 161248 1 -1 Plaza_del_ 259803 0 -1 Historical 129905 0.8 -1 Argentina' 64472 0.8 -1 -2
+53c2968cc456f723,Tandil_tou 14636 0 -1 _Old_Build 4293 0 -1 Tandil_tou 86994 0 -1 _Old_Build 79629 0.6 -1 Tandil_tou 10764 0.4 -1 _Old_Build 2415 0.6 -1 -2

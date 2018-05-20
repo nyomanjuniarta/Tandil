@@ -1,0 +1,1222 @@
+[
+    {
+        "poiId": "5a392cc461414b0001fc7c46",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13029297922576,
+                -37.34286466618544
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Do you see the big wall?",
+                "image": {
+                    "url": "http://www.hotelairesdetandil.com.ar/img/paseos/Tandil_dique.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392cc461414b0001fc7c47",
+                    "author": "admin",
+                    "title": "Have you ever wondered why there is a dam (\"el dique\") in Tandil?",
+                    "media": {
+                        "url": "http://www.eldiariodetandil.com/contenido/noticias/original/1493693121.jpeg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The function of the dam is to regulate the flood flows that descend torrentially from the mountain range and to eliminate the surpluses through its twenty mouths towards the tubing. The dam was inaugurated on January 19, 1962.\nNowadays, the area of the dam is a common place to perform different sports as well as to hanging out with your group of friends.",
+                    "question": "Was a construction like this necessary in your city?",
+                    "tags": [
+                        "dam",
+                        "dique",
+                        "Lakes",
+                        "floods",
+                        "running"
+                    ],
+                    "active": false
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39357361414b0001f14ae6",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13097445002518,
+                -37.32203745334974
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the cistern.",
+                "image": {
+                    "url": "https://www.nuevaeranet.com.ar/fotos_notas/media_30698_DD.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 27,
+            "stories": [
+                {
+                    "storyId": "5a39357361414b0001f14ae7",
+                    "author": "admin",
+                    "title": "\"Plaza del Tanque\"",
+                    "media": {
+                        "url": null,
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The Tank that rises majestically in the center of the square (one of the greatest works of infrastructure undertaken by the conservative governments in the thirties) is one of the most relevant architectonic work in the city, and maybe, unique in its style in the country. In the upper part, the round balcony is exclusive (since there is no other similar in Tandil), it also has windows with a semicircular arch and a fantastic stone plinth made of gray granite from the region.",
+                    "question": "Why is an entire neighborhood and a square named after a specific work of architecture?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392cc461414b0001fc7c48",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13029297922576,
+                -37.34286466618544
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Do you see the big wall?",
+                "image": {
+                    "url": "http://www.hotelairesdetandil.com.ar/img/paseos/Tandil_dique.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392cc461414b0001fc7c49",
+                    "author": "admin",
+                    "title": "Have you ever wondered why there is a dam (\"el dique\") in Tandil?",
+                    "media": {
+                        "url": "http://www.eldiariodetandil.com/contenido/noticias/original/1493693121.jpeg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The function of the dam is to regulate the flood flows that descend torrentially from the mountain range and to eliminate the surpluses through its twenty mouths towards the tubing. The dam was inaugurated on January 19, 1962.\nNowadays, the area of the dam is a common place to perform different sports as well as to hanging out with your group of friends.",
+                    "question": "Was a construction like this necessary in your city?",
+                    "tags": [
+                        "dam",
+                        "dique",
+                        "Lakes",
+                        "floods",
+                        "running"
+                    ],
+                    "active": false
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39370361414b0001f14aea",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13131608216496,
+                -37.349882445402244
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look towards the huge iron motorcycle!",
+                "image": {
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/34/72/58/20161004-122603-largejpg.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 65,
+            "stories": [
+                {
+                    "storyId": "5a39370361414b0001f14aeb",
+                    "author": "admin",
+                    "title": "A tribute from Tandil to one of the best musicians in Argentina",
+                    "media": {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pappo.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The sculpture shows the mystic musician with his two great loves: guitars and motorcycles. In the building of this artistic work, several sculptors worked, who counted on the collaboration of many individuals interested in the realization. The place of placement of the sculpture is a space for meetings or recitals that do not disturb the neighbors. It is a place where you can park and is a nice place to meet motorcycles. One of his famous hit is: https://www.youtube.com/watch?v=8ylGmIBSK78\n",
+                    "question": "Do Pappo songs remind you of another blues and rock artist?",
+                    "tags": [
+                        "Music",
+                        "Famous Artist",
+                        "Guitar",
+                        "Motorcycles",
+                        "Monument",
+                        "Iron"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39393061414b0001f14af4",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13786803568139,
+                -37.33856345652417
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look for the statue ",
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PortadaParqueIndependencial-18feb2013.jpg/800px-PortadaParqueIndependencial-18feb2013.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a39393061414b0001f14af5",
+                    "author": "admin",
+                    "title": "Meet the founder of Tandil",
+                    "media": {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MonumentoGralRodriguez.jpg/1024px-MonumentoGralRodriguez.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Martin Rodríguez carried out a campaign against natives in 1822. The following year he achieved important advances in the border, founding the Fort Independence, which gave rise to the city of Tandil, on April 4, 1823.",
+                    "question": "Can you find traces of the fort around you?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39535361414b0001f14af6",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.140848185700804,
+                -37.3278200661783
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "In this corner you will taste the best cheese",
+                "image": {
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/04/62/e3/epoca-de-quesos-desde.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 20,
+            "stories": [
+                {
+                    "storyId": "5a39535361414b0001f14af7",
+                    "author": "admin",
+                    "title": "Take a bite of Tandil history",
+                    "media": {
+                        "url": "https://www.welcomeargentina.com/tandil/imagenes/tandil-tienda02.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "One of the oldest buildings in Tandil. Built in 1860, this place is full of stories. It started as a Posta (a resting point for messengers) and as a slaughterhouse. In 1920, the place become a grocery until 1970. The place stayed closed for 20 years and after that opened as a restaurant and grocery. Now, the place is a historical monument.\n",
+                    "question": "Can you imagine how many stories happened in here?\n",
+                    "tags": [
+                        "Grocery",
+                        "Cheese",
+                        "Food"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39382161414b0001f14aee",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.12253777366365,
+                -37.35060643360669
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look up the hill and look for a windmill",
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Monumento_Quijote_%28Tandil%29.JPG/800px-Monumento_Quijote_%28Tandil%29.JPG",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a39382161414b0001f14aef",
+                    "author": "admin",
+                    "title": "Remebering a good book",
+                    "media": {
+                        "url": "https://www.enfrentearte.com/wp-content/uploads/2017/03/DonQuijoteDeLaMancha-767176.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The monument of Don Quixote and Sancho Panza was inaugurated on April 6, 2008, at the initiative of the Spanish community residing in Tandil. The sculptures were placed in a sector where the Windmill is also located with an incredible view to the \"Lake of the Fort\" from behind. The work of art that pays homage to the literary work of Miguel de Cervántes (17th century) was made by Alberto Vinsennau, from Tandil, along with Ernesto Santiago and Gustavo Andersen. An attraction that you can not miss. Don Quixote has a height of 4.6 meters, while Sancho Panza is 3.5 meters tall. Each weighs about a ton and both sculptures were made with iron.",
+                    "question": "Do you know other books of this author?\n",
+                    "tags": [
+                        "books",
+                        "monument"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392cc561414b0001fc7c4c",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13029297922576,
+                -37.34286466618544
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Do you see the big wall?",
+                "image": {
+                    "url": "http://www.hotelairesdetandil.com.ar/img/paseos/Tandil_dique.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392cc561414b0001fc7c4d",
+                    "author": "admin",
+                    "title": "Have you ever wondered why there is a dam (\"el dique\") in Tandil?",
+                    "media": {
+                        "url": "http://www.eldiariodetandil.com/contenido/noticias/original/1493693121.jpeg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The function of the dam is to regulate the flood flows that descend torrentially from the mountain range and to eliminate the surpluses through its twenty mouths towards the tubing. The dam was inaugurated on January 19, 1962.\nNowadays, the area of the dam is a common place to perform different sports as well as to hanging out with your group of friends.",
+                    "question": "Was a construction like this necessary in your city?",
+                    "tags": [
+                        "dam",
+                        "dique",
+                        "Lakes",
+                        "floods",
+                        "running"
+                    ],
+                    "active": false
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392cc361414b0001fc7c42",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13029297922576,
+                -37.34286466618544
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Do you see the big wall?",
+                "image": {
+                    "url": "http://www.hotelairesdetandil.com.ar/img/paseos/Tandil_dique.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392cc361414b0001fc7c43",
+                    "author": "admin",
+                    "title": "Have you ever wondered why there is a dam (\"el dique\") in Tandil?",
+                    "media": {
+                        "url": "http://www.eldiariodetandil.com/contenido/noticias/original/1493693121.jpeg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The function of the dam is to regulate the flood flows that descend torrentially from the mountain range and to eliminate the surpluses through its twenty mouths towards the tubing. The dam was inaugurated on January 19, 1962.\nNowadays, the area of the dam is a common place to perform different sports as well as to hanging out with your group of friends.",
+                    "question": "Was a construction like this necessary in your city?",
+                    "tags": [
+                        "dam",
+                        "dique",
+                        "Lakes",
+                        "floods",
+                        "running"
+                    ],
+                    "active": false
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39562861414b0001f14afe",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.132180333119805,
+                -37.33421928815891
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "A memory of the pioneer merchant of Tandil",
+                "image": {
+                    "url": "https://www.tandildiario.com/image/3968/monumento+comerciante1.JPG",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 60,
+            "stories": [
+                {
+                    "storyId": "5a39562861414b0001f14aff",
+                    "author": "admin",
+                    "title": "The man who promoted the trade of goods in Tandil in the 19th century",
+                    "media": {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ramonsentado.gif",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The Merchant Monument was made by Alberto Vinsennau and his team of collaborators, and placed in the Plaza Lorenzo Mauhourat.\nIt is a horse-drawn cart that pays tribute to Ramón Santamarina, considered the largest supplier of the town and pioneer of trade, constituting through this figure in a tribute to all the merchants from Tandil.\nThe cart was made with railway materials donated by people who work in the scrapping of the wagons, and later recycled. It is curious that the materials of a means of transport end up symbolizing another means of transport.\n",
+                    "question": "Who promoted the trade of goods in your city in the past?",
+                    "tags": [
+                        "cart",
+                        "commerce",
+                        "trader",
+                        "Transportation vehicles",
+                        "business",
+                        "pioneer"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392cc361414b0001fc7c44",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.128065349889766,
+                -37.32678946865573
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the name of the square.",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/exp/5a392cc361414b0001fc7c45/story.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 70,
+            "stories": [
+                {
+                    "storyId": "5a392cc361414b0001fc7c45",
+                    "author": "admin",
+                    "title": "Argentina's Independence Day",
+                    "media": {
+                        "url": "http://fcvs.uader.edu.ar/wp-content/uploads/2014/05/25-05-2014-25-de-Mayo-D%C3%ADa-de-la-Revoluci%C3%B3n-de-Mayo1.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "May 25th, 1810, was the May Revolution Day. This revolution was a series of events that took place in the city of Buenos Aires, capital of Viceroyalty of Rio de la Plata, dependent of the King of Spain, and which resulted in the dismissal of the Viceroy Baltasar Hidalgo de Cisneros and its replacement by the First Governing Board.",
+                    "question": "What does this date represent in other countries? What other interesting events took place on a May 25th?",
+                    "tags": [
+                        "Colonialism",
+                        "Revolution"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392cc561414b0001fc7c4a",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13029297922576,
+                -37.34286466618544
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Do you see the big wall?",
+                "image": {
+                    "url": "http://www.hotelairesdetandil.com.ar/img/paseos/Tandil_dique.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392cc561414b0001fc7c4b",
+                    "author": "admin",
+                    "title": "Have you ever wondered why there is a dam (\"el dique\") in Tandil?",
+                    "media": {
+                        "url": "http://www.eldiariodetandil.com/contenido/noticias/original/1493693121.jpeg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The function of the dam is to regulate the flood flows that descend torrentially from the mountain range and to eliminate the surpluses through its twenty mouths towards the tubing. The dam was inaugurated on January 19, 1962.\nNowadays, the area of the dam is a common place to perform different sports as well as to hanging out with your group of friends.",
+                    "question": "Was a construction like this necessary in your city?",
+                    "tags": [
+                        "dam",
+                        "dique",
+                        "Lakes",
+                        "floods",
+                        "running"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a3924db61414b0001fc7c3c",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.19723225774095,
+                -37.34740751932211
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look towards the building!",
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tandil_desde_La_Movediza_2.JPG/250px-Tandil_desde_La_Movediza_2.JPG",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 23,
+            "stories": [
+                {
+                    "storyId": "5a3924db61414b0001fc7c3d",
+                    "author": "admin",
+                    "title": "Tandil a city of very good food",
+                    "media": {
+                        "url": null,
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Do you like salami? Tandil has a great history in good food.",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39579461414b0001f14b00",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13488014078858,
+                -37.33034309117123
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Not only for christians..",
+                "image": {
+                    "url": "http://du4zwgdg3nwxa.cloudfront.net/empresas/imagenes/r/re/recqclwo-1401220726-bg.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 15,
+            "stories": [
+                {
+                    "storyId": "5a39579461414b0001f14b01",
+                    "author": "admin",
+                    "title": "The underground secrets of Tandil's lutheran church",
+                    "media": {
+                        "url": "http://eleco.com.ar/wp-content/uploads/2017/10/web_9loc-1.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "What is a Danish Lutheran church doing in Tandil? Strangely enough, the first mayor of Tandil was from Denmark - you can see a statue of him in town if you look around. One of the buildings that remain as tribute to his passing is the Lutheran church in Tandil.\n\nLast year, el Templo Danés of Tandil commemorated it's 150 years of existence, and almost as if to celebrate it's passing of age, archeological investigations into the history of the religious establishment have uncovered unexpected relics of it's colorful past. An assortment of pipes with French inscriptions along with gin bottles and charred bones were discovered during a scientific study throughout 2017.\n\nThe church was believed to have been one of the entry/exit points of the numerous escape tunnels that were said to have spanned the area covered by the fort that stood in Tandil in the late 1800's.",
+                    "question": "What do you think those tunnels were for? Do you know of any other cities that have tunnels running underneath them? Why is there so much foreign influence in Tandil?",
+                    "tags": [
+                        "Church",
+                        "Discovery",
+                        "Tunnels",
+                        "Archeology"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a3954b561414b0001f14af8",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1385680220218,
+                -37.328664623118826
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Rectorado Universidad",
+                "image": {
+                    "url": "https://www.unicen.edu.ar/sites/default/files/imagenes/actualidad/2011-01/rectorado%202016_0_2_0.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 17,
+            "stories": [
+                {
+                    "storyId": "5a3954b561414b0001f14af9",
+                    "author": "admin",
+                    "title": " Old Building",
+                    "media": {
+                        "url": "data:image/jpeg;base64,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",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This place was a famous and fancy Hotel. It was built in 1919, in that time very important people used to stay here, like governants, economists, scientists. Nowadays the building is the main administration center of the Universidad Nacional del Centro de la Provincia de Buenos Aires..",
+                    "tags": [
+                        "Hotel",
+                        "University",
+                        "Buildings"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39385261414b0001f14af2",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.086150424834415,
+                -37.3382573064213
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "The mysterious road",
+                "image": {
+                    "url": "http://eleco.com.ar/wp-content/uploads/2016/10/CAMINO-MISTERIOSO-13-10-2016-7-1024x683.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 61,
+            "stories": [
+                {
+                    "storyId": "5a39385261414b0001f14af3",
+                    "author": "admin",
+                    "title": "Are you going up or down?",
+                    "media": {
+                        "url": "http://eleco.com.ar/wp-content/uploads/2016/10/CAMINO-MISTERIOSO-13-10-2016-18-810x540.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Yoy stop the car, you think you are going to go forward but you go backward. Many people had explained it as a magnetic phenomenon, but actually it is an optical ilusion.",
+                    "question": "Is this magic or physic? Why does it happen? Do you know other optical ilusion produced by natural enviroments?",
+                    "tags": [
+                        "mysterious",
+                        "confusion",
+                        "car",
+                        "Natural environment"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39384861414b0001f14af0",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13605057836564,
+                -37.327775470861134
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Find the fiercest looking cat around",
+                "image": {
+                    "url": "http://farm4.static.flickr.com/3512/3912920632_68262d7614.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39384861414b0001f14af1",
+                    "author": "admin",
+                    "title": "Alien influence at the heart of Tandil",
+                    "media": {
+                        "url": "https://e-monumen.net/wp-content/uploads/12582_image_2.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Ever wondered what those lions are doing here? The bronze statues in 'Plaza Independencia' were actually commissioned to be made in France in 1914, and installed at the plaza at two of the corners, the other two being adorned with bronze statues of dogs. \n\nThese statues stand today as proud guardians of the square, symbolizing fidelity and protection. Their history is shrouded in mystery however, and some speculate that they are relics of the mason influence in Tandil, who are believed to have funded their casting. Who knows how far their influence really goes...",
+                    "question": "Do you think these statues attest to some sort of connection between Tandil and France? Is there maybe a hidden significance to these statues? What other statues do you know about that were made in countries far away from where they stand today?",
+                    "tags": [
+                        "Lion",
+                        "Plaza",
+                        "France",
+                        "Mystery"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392f0261414b0001fc7c50",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.15488495108826,
+                -37.328833606845926
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the top of the hill to see Christ",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/exp/5a392f0261414b0001fc7c51/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392f0261414b0001fc7c51",
+                    "author": "admin",
+                    "title": "Stairway to heaven",
+                    "media": {
+                        "url": "http://eleco.com.ar/wp-content/uploads/2016/03/vía-crucis1.jpg",
+                        "copyright": "El Eco (local newspaper)",
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Come and feel blessed. Tandil is a place to find peace, so we can find a lot of religious artifacts. Even if you are not a religious person you will find this place beatiful. During the easter, you can be part of the mistical procession along with thousands of people from many places.",
+                    "question": "Does this place make you find yourself and feel closer to God?",
+                    "tags": [
+                        "Religious tourism",
+                        "Park"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39291761414b0001fc7c3e",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.12109504303052,
+                -37.33283398589123
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Who is the hero that watch the city?",
+                "image": {
+                    "url": "https://lavozdetandil.com.ar/wp-content/uploads/2017/06/cerrito.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 45,
+            "stories": [
+                {
+                    "storyId": "5a39291761414b0001fc7c3f",
+                    "author": "admin",
+                    "title": "Who is the hero that watches the city?",
+                    "media": {
+                        "url": "https://www.tandildiario.com/thumb/655/604-402-92/monumentosanmartin.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "San Martín, the liberator, is looking to city. He is scorted by two 'granaderos' and followed by his horse. Twenty meters from the warrior rises a nucleus of natural rocks symbolizing the Andes, which has been built with vertical rhythms forming a nest of condors.",
+                    "question": "What are the condors symbolizing?",
+                    "tags": [
+                        "Monument",
+                        "Park",
+                        "History",
+                        "Heroes",
+                        "Freedom"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a390c1b61414b0001fc7c3a",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.169422923133766,
+                -37.309539676370974
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look towards the moving stone",
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Piedra_movediza_Tandil%2C_Prov._Buenos_Aires%2C_Argentina..JPG",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 70,
+            "stories": [
+                {
+                    "storyId": "5a390c1b61414b0001fc7c3b",
+                    "author": "admin",
+                    "title": "A landmark victim to tourism?",
+                    "media": {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Piedra_Movediza_de_Tandil.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "### Can a rock balance over a cliff because of tourism? \n\n\"La Piedra Movediza\" was a balancing rock, about 300 tons in weight. In the early 1900's it attracted much tourism to Tandil,  because of the way it was balanced on the edge of a hill. It fell and broke on February 29th, 1912. One theory for the cause of the fall was that the workers in Tandil's quarries at the time were annoyed with the tourist visits to the place. \n\nTourism can bring many advantages to a place, like economic boom but it may also bring on problems. Urban gentrification is one of them: when a low-visibility city or neighborhood suddenly attracts tourist attention, rents may increase and the local population may be forced to leave, in absence of affordable housing.",
+                    "question": "How do you think local workers in Tandil reacted in view of the early 1900 tourists? How do locals perceive tourism today, especially in popular places?",
+                    "tags": [
+                        "History",
+                        "rock",
+                        "architecture"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39562061414b0001f14afc",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.14154518740922,
+                -37.337245660048694
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the Church",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/exp/5a39562061414b0001f14afd/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 51,
+            "stories": [
+                {
+                    "storyId": "5a39562061414b0001f14afd",
+                    "author": "admin",
+                    "title": "Bingo !",
+                    "media": {
+                        "url": "https://s-media-cache-ak0.pinimg.com/originals/f8/da/54/f8da54ed8d47df562bf91b0a1f28fb4b.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Every weekend, in a lot of places in Argentina, you can come to church and play Bingo. \n\nIt's an important social event for the community: you meet people, have food but most importantly, you can support a good cause and raise money for charity.\n\n",
+                    "question": "How much Church is important in your culture?",
+                    "tags": [
+                        "Churches",
+                        "Community action",
+                        "Games"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39369a61414b0001f14ae8",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.146703999122806,
+                -37.338923201012335
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Stop at the corner of Ezeiza and Estrada",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/exp/5a39369a61414b0001f14ae9/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 25,
+            "stories": [
+                {
+                    "storyId": "5a39369a61414b0001f14ae9",
+                    "author": "admin",
+                    "title": "What does Ezeiza stands for?",
+                    "media": {
+                        "url": "https://www.buenosaires123.com.ar/imagenes/aeropuerto-de-ezeiza.jpg",
+                        "copyright": "www.buenosaires123.com.ar",
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "You probably know about the Airport of Ezeiza but did you know that..\n\n- Gabino Ezeiza, nicknamed the Black Ezeiza, lived in Buenos Aires, in the neighborhood San Telmo, February 3, 1858 - idem, in the neighborhood of Flores, October 12, 1916). He was an Argentinian musician and payador.\n\n- Juan Ramón Ezeiza (in his time: Juan Ramón de Ezeyza Alvares) (Gualeguay, Entre Ríos, 17981 - Buenos Aires, January 1864) was a rancher and Argentine colonel, who participated in the civil wars in the province of Buenos Aires.\n\n- The town of Ezeiza, near the city of Buenos Aires, is named after its name in honor of his son José María; for this reason, the International Airport of Ezeiza, the international gateway of the Argentine capital, bears his name.",
+                    "question": "Do you know any other Ezeiza?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39560f61414b0001f14afa",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13079472676009,
+                -37.320494629567655
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "A place for the preservation of history",
+                "image": {
+                    "url": "http://www.tandil-alojamientos.com.ar/images/atracciones/164/museofuerte.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39560f61414b0001f14afb",
+                    "author": "admin",
+                    "title": "Historical museum \"Fuerte Independencia\"",
+                    "media": {
+                        "url": "http://www.tandil-alojamientos.com.ar/images/atracciones/164/museofuerte.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This institution that gives prestige to the cultural heritage of the city of Tandil, works directly from the day August 20, 1955, when a nucleus of wills joined to give rise to the Traditionalist Institution Fort Independence, whose clear objectives were to present our cultural and traditional heritage.\n\n\nThe concerns are being taken into consideration and the idea of ​​creating a museum arises, which is materialized with the subsequent opening in 1963 from the first pieces, donated by its own president and some members of the commission.",
+                    "question": "What are the advantages of having a museum nearby? When was the last time you have visited a museum?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39377461414b0001f14aec",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.11446227291094,
+                -37.32660687218113
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the building!",
+                "image": {
+                    "url": "http://eldiario.deljuego.com.ar/images/stories/Notas/00__2012/10/01/casino-tandil-frente.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 18,
+            "stories": [
+                {
+                    "storyId": "5a39377461414b0001f14aed",
+                    "author": "admin",
+                    "title": "From gambling to charity.",
+                    "media": {
+                        "url": null,
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Opened on Octob er 11, 2002, from its inception a policy of involvement with the community was envisioned through both the hiring of staff and the purchase of materials of local origin, which earned it special consideration by the \"Cámara Empresaria\" in the city. This first recognition was the starting point for what would be a constant exercise of corporate social responsibility.\n\nCurrently it makes permanent donations to local charities through the organization of meetings to benefit Caritas, the Red Cross, the Children's Hospital, the Mental Health Center, local parishes, and other institutions.",
+                    "question": "How useful is it to have a casino in a city? What advantages does it bring to the community?",
+                    "tags": [
+                        "Casino",
+                        "Entertainment"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39350c61414b0001f14ae2",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13688183945918,
+                -37.32874500275076
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "There's no way you can miss it..",
+                "image": {
+                    "url": "http://www.vivotandil.com/contenido/productos/original/1458613624.jpeg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 68,
+            "stories": [
+                {
+                    "storyId": "5a39350c61414b0001f14ae3",
+                    "author": "admin",
+                    "title": "Freedom and symbolism",
+                    "media": {
+                        "url": "http://www.turismopractico.com.ar/Fotos/BuenosAires/Tandil/DSC01263.JPG",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Every wondered why so many cities in Argentina have a \"Plaza Independencia\"? The citizens fought hard for their independence across the country, battles won with much bloodshed and effort. Their freedom and independence is a matter of national pride and it is reflected in the edifices and monuments that stand to attest to it to this day.\n\nThe \"Plaza Independencia\" in Tandil stands at the center of the city surrounded by a number of historical and administrative buildings.",
+                    "question": "\nHave you visited other plaza independencia's in Argentina? Around the world? Are there places with similar significance that you know about?\t ",
+                    "tags": [
+                        "Plaza"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392a9661414b0001fc7c40",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.137686460167856,
+                -37.312304875253695
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "You can't miss the train station..",
+                "image": {
+                    "url": "https://kids.kiddle.co/images/thumb/a/a1/And%C3%A9n_de_la_estaci%C3%B3n_Tandil_hacia_el_noreste.jpg/601px-And%C3%A9n_de_la_estaci%C3%B3n_Tandil_hacia_el_noreste.jpg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 76,
+            "stories": [
+                {
+                    "storyId": "5a392a9661414b0001fc7c41",
+                    "author": "admin",
+                    "title": "The fading gateway to Tandil?",
+                    "media": {
+                        "url": "https://www.infobaires24.com.ar/wp-content/uploads/2017/10/tandil-800x445.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The 'Tandil' station was founded in 1883, and since then has been a pillar of development and immigration for the city of Tandil. Due to lack of maintenance and funding over the years however, it has slowly been phased out of use. \n\nUse of the train station was limited to only goods and livestock in 2015, rendering travel to and from Tandil very difficult for low income families around the country.\n\nIn 2016, the Tandil train station was finally shut down due to railway track damage with no plans to bring it back. This landmark of progress has now become a relic of the past.",
+                    "question": "Do you think that immigration into Tandil has been affected over time by the state of the train station? What effect do you think the reopening of the train station would have on development in Tandil?",
+                    "tags": [
+                        "Trains",
+                        "People",
+                        "Economy",
+                        "Train Station"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a392f0161414b0001fc7c4e",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.15488495108826,
+                -37.328833606845926
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the top of the hill to see Christ",
+                "image": {
+                    "url": null,
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a392f0161414b0001fc7c4f",
+                    "author": "admin",
+                    "title": "Stairway to heaven",
+                    "media": {
+                        "url": "http://eleco.com.ar/wp-content/uploads/2016/03/vía-crucis1.jpg",
+                        "copyright": "El Eco (local newspaper)",
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Come and feel blessed. Tandil is a place to find peace, so we can find a lot of religious artifacts. Even if you are not a religious person you will find this place beatiful. During the easter, you can be part of the mistical procession along with thousands of people from many places.",
+                    "question": "Does this place make you find yourself and feel closer to God?",
+                    "tags": [
+                        "Religious tourism",
+                        "Park"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39351b61414b0001f14ae4",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.113154867691236,
+                -37.337909826293966
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Beware, the \"past\" stalks us.",
+                "image": {
+                    "url": "http://www.eldiariodetandil.com/contenido/noticias/original/1500762121.jpeg",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 100,
+            "stories": [
+                {
+                    "storyId": "5a39351b61414b0001f14ae5",
+                    "author": "admin",
+                    "title": "Beware, the \"past\" stalks us.",
+                    "media": {
+                        "url": "http://www.patagonia.com.ar/media/imagenes/tematica/dinosaurios/giganotosaurus.jpg",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Giganotosaurus was one of the largest known terrestrial carnivores and is a genus of theropod dinosaur that lived in what is now Argentina.  The holotype specimen was discovered in Patagonia.",
+                    "question": "How do you imagine this place millions and millions ago? Is a dinosaur close to you?",
+                    "tags": [
+                        "Dinosaur",
+                        "Park",
+                        "Sculpture"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,851 @@
+[
+    {
+        "poiId": "5a395f3461414b0001f14b06",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1387056,
+                -37.3286475
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Tandil tour",
+                "image": {
+                    "url": "",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 19.639999389648438,
+            "stories": [
+                {
+                    "storyId": "5a395f3461414b0001f14b07",
+                    "title": "Tandil tour",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395f3461414b0001f14b07/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Starting the tour around Tandil city.",
+                    "question": "What should be the next point?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39658d61414b0001f14b14",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1378633,
+                -37.326835
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Figlio and monarca",
+                "image": {
+                    "url": "",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39658d61414b0001f14b15",
+                    "title": "Figlio ice cream and Monarca supermarkets",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39658d61414b0001f14b15/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Figlio ice cream and Monarca supermarkets are two well established chain stores in Tandil. They belong to the same family of Italian immigrants and are always found right next to each other. ",
+                    "question": "Don't you think that This is a very edifying story family ties and Land ownership? :-D",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a3968c961414b0001f14b1c",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1379396,
+                -37.3401148
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Castle",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3968c961414b0001f14b1d/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a3968c961414b0001f14b1d",
+                    "title": "The castle of the ice princess",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3968c961414b0001f14b1d/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This castle appears to belong to a princess, but it is the Fort",
+                    "question": "Have you visited it?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39997761414b0001f14b2c",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.132345,
+                -37.3233233
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the three contiguous buildings",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39997761414b0001f14b2d/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39997761414b0001f14b2d",
+                    "title": "Spot the intruder",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39997761414b0001f14b2d/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The chromatic and architectural continuity of the historic streetscape (partly in disrepair) is abruptly interrupted by an high rising new building, accompanied by some \"art\". The new building doesn't blend in with the surroundings at all, not in elevation, colour, or material. This is very common in tandil (and the rest of Argentina, and also elsewhere in the world). The \"work of art\" is an example of the pretentious and banal features that property speculators around the world seem to deem an absolutely necessary accompaniment to their creations.",
+                    "question": "Do your think that this kind of urbanism improves or deters the character of a city? Does it match the rhetoric of preserving the cultural heritage of the city?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a395abf61414b0001f14b02",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1384127,
+                -37.3285496
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look the door of the University.",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395abf61414b0001f14b03/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 15.170000076293945,
+            "stories": [
+                {
+                    "storyId": "5a395abf61414b0001f14b03",
+                    "title": "Do you know the University?",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395abf61414b0001f14b03/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This is the University of the city, is an historical builduing.",
+                    "question": "Do you enter any time?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a395eb561414b0001f14b04",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1385011,
+                -37.3286025
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look inside the building!",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395eb561414b0001f14b05/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a395eb561414b0001f14b05",
+                    "title": "Antique machinery",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395eb561414b0001f14b05/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Interesting architectonic styles from long time ago.",
+                    "question": "Do you see this architectonic style in other city?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39659461414b0001f14b16",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.132299,
+                -37.3337133
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Tree",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39659461414b0001f14b17/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39659461414b0001f14b17",
+                    "title": "Old tree at independence park",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39659461414b0001f14b17/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This tree as many others in this park is very old. They are mute protagonist of the history of Tandil",
+                    "question": "Would you like to take a nap at the bottom of this tree?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39735c61414b0001f14b22",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1269362,
+                -37.3429742
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Fundidor!",
+                "image": {
+                    "url": "content://com.android.providers.media.documents/document/image%3A36153",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39735c61414b0001f14b23",
+                    "title": "Metal",
+                    "media": {
+                        "url": "content://com.android.providers.media.documents/document/image%3A36155",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39611d61414b0001f14b0c",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1279722,
+                -37.3268948
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "25 de mayo square",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39611d61414b0001f14b0d/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39611d61414b0001f14b0d",
+                    "title": "Square 25th May",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39611d61414b0001f14b0d/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "ðŸ˜ beautiful place",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a3966f061414b0001f14b1a",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1378445,
+                -37.3387374
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Stairs to heaven",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3966f061414b0001f14b1b/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a3966f061414b0001f14b1b",
+                    "title": "Stairs of the old and antique Fort",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3966f061414b0001f14b1b/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "These stairs were build with the effort of many people from Tandil. Now we enjoy this place.",
+                    "question": "Do you know where the stairs end?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39628261414b0001f14b10",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.13754,
+                -37.3275767
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the building",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39628261414b0001f14b11/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39628261414b0001f14b11",
+                    "title": "Tall buildings with a small footprint",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39628261414b0001f14b11/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Buildings of great height, but with a very small footprint are very common in Buenos aires, but there are some (fairly recent) also in tandil. They are a curious sight for European visitors",
+                    "question": "Does this tell us something on land values? Is this a sign of fragmented land ownership?",
+                    "tags": [
+                        "Architecture",
+                        "Land use"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39747961414b0001f14b24",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1350923,
+                -37.3302064
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Oriental house",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39747961414b0001f14b25/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39747961414b0001f14b25",
+                    "title": "mysterious oriental house",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39747961414b0001f14b25/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "The house is on a corner near the lake. It's old",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39790961414b0001f14b28",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1279115,
+                -37.3378312
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Sun clock",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39790961414b0001f14b29/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39790961414b0001f14b29",
+                    "title": "Sun clock ",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39790961414b0001f14b29/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Sun clock at 25 de Mayo Square",
+                    "question": "Do you have a sun clock in your city?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39926361414b0001f14b2a",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1322333,
+                -37.3244133
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look at the pointless inscription at the bottom of this building",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39926361414b0001f14b2b/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39926361414b0001f14b2b",
+                    "title": "Peace, love and property speculation",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39926361414b0001f14b2b/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "A new building with a strange inscription on the side: \"Peace & love\". Recent buildings, in Tandil as elsewhere, tend to have this kind of \"feature\"",
+                    "question": "What do you think the role of banal, generically positive messages attached to property is? Who is the message aimed at? Residents? Passers by? Is it meant to say something about those who live in the building?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a3966a561414b0001f14b18",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1385369,
+                -37.328602
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Look to thw statue.",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3966a561414b0001f14b19/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a3966a561414b0001f14b19",
+                    "title": "Jose de San Martin.",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3966a561414b0001f14b19/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "He is the heroe of our nation.",
+                    "question": "Do you know his history?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a395fbf61414b0001f14b0a",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1385586,
+                -37.3285788
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Ice cream",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395fbf61414b0001f14b0b/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a395fbf61414b0001f14b0b",
+                    "title": "The best ice cream",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395fbf61414b0001f14b0b/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Here you can taste the best ice cream in history",
+                    "question": "Do you know which is the best flavour?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a396b4161414b0001f14b1e",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1407917,
+                -37.3369172
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "All the way to the top of the hill",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a396b4161414b0001f14b1f/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a396b4161414b0001f14b1f",
+                    "title": "ThÃ©Ã¢tre on the hilltop",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a396b4161414b0001f14b1f/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Are open air plays still a thing? Thus amphitheater is situated in the shade of the hilltop trees. A testament to the Greek influence in Tandil.",
+                    "question": "Would you come watch a show here? ",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39622461414b0001f14b0e",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1340148,
+                -37.3310168
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Fountain for kid",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39622461414b0001f14b0f/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39622461414b0001f14b0f",
+                    "title": "Kid",
+                    "media": {
+                        "url": "",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Nice",
+                    "question": "Que onda",
+                    "tags": [
+                        "Kid",
+                        "Whater"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39706261414b0001f14b20",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1374439,
+                -37.3381745
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "A chair for tall people with short legs? ",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39706261414b0001f14b21/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39706261414b0001f14b21",
+                    "title": "A chair built for giants.. ",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39706261414b0001f14b21/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": ".. Of heart and character. Situated on a gentle rise overlooking the dam, this is the perfect spot for a chill afternoon with the breeze gently blowing in your face.",
+                    "question": "Would you sit here to bask in the glory of the view? ",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a39639d61414b0001f14b12",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.132299,
+                -37.3337133
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "Santa rita",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39639d61414b0001f14b13/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a39639d61414b0001f14b13",
+                    "title": "An old and beautyful house",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a39639d61414b0001f14b13/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This house was build with a lot of effort, love, and dreams. It represents a part of the history of the people of Tandil",
+                    "question": "Do you know the name of the plant in this house?",
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a3975f161414b0001f14b26",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1348525,
+                -37.3302858
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "A colorful plaza on a corner",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3975f161414b0001f14b27/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a3975f161414b0001f14b27",
+                    "title": "Amazing women",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a3975f161414b0001f14b27/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "Rosario Vera PeÃ±aloza was an Argentinian teacher and pedagogue. Because of her hard work and dedication she has streets, schools and even songs in her name.",
+                    "question": "Do you know of other places that recognize great women in history?",
+                    "tags": [
+                        "Square",
+                        "Green space",
+                        "Rosario Vera PeÃ±aloza"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    },
+    {
+        "poiId": "5a395fac61414b0001f14b08",
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1385409,
+                -37.3285855
+            ]
+        },
+        "properties": {
+            "clue": {
+                "title": "It's a provocative display of strength",
+                "image": {
+                    "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395fac61414b0001f14b09/clue.png",
+                    "copyright": null,
+                    "type": null,
+                    "caption": null
+                }
+            },
+            "radius": 10,
+            "stories": [
+                {
+                    "storyId": "5a395fac61414b0001f14b09",
+                    "title": "Parisian reproduction of lost Greek history",
+                    "media": {
+                        "url": "https://assets.pilot4.crosscult.uop.gr/users/5a395fac61414b0001f14b09/story.png",
+                        "copyright": null,
+                        "type": null,
+                        "caption": null
+                    },
+                    "content": "This statue is aptly named \"The wrestlers\" and is one of the numerous copies of the Roman marble sculpture modeled after a lost Greek work of art from the 3rd century BCE.\n\nThe original copy is now part of the Uffizi collection in Florence, Italy.\n\nWhat is this bronze reproduction doing in Tandil? Is this a symbol of the struggle for freedom, seeing as it is in the middle of the \"Plaza Independence\". \n\nThere seems to be a lot of European influence regarding monuments around the city, and that much is clear at least from the architectural style of the buildings. ",
+                    "question": "What does this statue represent to you? ",
+                    "tags": [
+                        "Sculpture",
+                        "Bronze"
+                    ],
+                    "active": true
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1322 @@
+[
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "67ffeec1d19c0440",
+            "value": 0.6,
+            "timestamp": 1513707941037
+        },
+        "type": "USER_LIKE",
+        "id": "5a3959a8fa87df000115f5cc",
+        "timestamp": 1513707944893
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "4e6c40c5436d5f4c",
+            "value": 0.2,
+            "timestamp": 1513707960344
+        },
+        "type": "USER_LIKE",
+        "id": "5a3959bcfa87df000115f5ce",
+        "timestamp": 1513707964175
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "ae200714b9e37173",
+            "value": 0.8,
+            "timestamp": 1513707999162
+        },
+        "type": "USER_LIKE",
+        "id": "5a3959e3fa87df000115f5d3",
+        "timestamp": 1513708003551
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "9532326214adc358",
+            "value": 0.6,
+            "timestamp": 1513708005484
+        },
+        "type": "USER_LIKE",
+        "id": "5a3959e6fa87df000115f5d4",
+        "timestamp": 1513708006688
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "f816c4543b753fcf",
+            "value": 0.6,
+            "timestamp": 1513708045061
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a14fa87df000115f5e0",
+        "timestamp": 1513708052713
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "c174444f99dea046",
+            "value": 1,
+            "timestamp": 1513708063835
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a22fa87df000115f5e5",
+        "timestamp": 1513708066155
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "c174444f99dea046",
+            "value": 1,
+            "timestamp": 1513708065738
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a22fa87df000115f5e6",
+        "timestamp": 1513708066617
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513708078943
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a2ffa87df000115f5e7",
+        "timestamp": 1513708079756
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "381551a3be844713",
+            "value": 0.8,
+            "timestamp": 1513708081902
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a2ffa87df000115f5e8",
+        "timestamp": 1513708079831
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "dc5bf415341bf912",
+            "value": 0.8,
+            "timestamp": 1513708082775
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a34fa87df000115f5ea",
+        "timestamp": 1513708084796
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 1,
+            "timestamp": 1513708125996
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a60fa87df000115f5f0",
+        "timestamp": 1513708128132
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "211641fc70293302",
+            "value": 0.8,
+            "timestamp": 1513708155585
+        },
+        "type": "USER_LIKE",
+        "id": "5a395a7dfa87df000115f5f4",
+        "timestamp": 1513708157514
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "f816c4543b753fcf",
+            "value": 1,
+            "timestamp": 1513708217802
+        },
+        "type": "USER_LIKE",
+        "id": "5a395abefa87df000115f5fe",
+        "timestamp": 1513708222009
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "f816c4543b753fcf",
+            "value": 1,
+            "timestamp": 1513708218733
+        },
+        "type": "USER_LIKE",
+        "id": "5a395abefa87df000115f5ff",
+        "timestamp": 1513708222447
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 1,
+            "timestamp": 1513708240902
+        },
+        "type": "USER_LIKE",
+        "id": "5a395ad1fa87df000115f608",
+        "timestamp": 1513708241805
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "9532326214adc358",
+            "value": 0.6,
+            "timestamp": 1513708293816
+        },
+        "type": "USER_LIKE",
+        "id": "5a395b08fa87df000115f616",
+        "timestamp": 1513708296609
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "9532326214adc358",
+            "value": 0.8,
+            "timestamp": 1513708408963
+        },
+        "type": "USER_LIKE",
+        "id": "5a395b81fa87df000115f628",
+        "timestamp": 1513708417446
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39535361414b0001f14af7",
+            "userId": "f816c4543b753fcf",
+            "value": 1,
+            "timestamp": 1513708453250
+        },
+        "type": "USER_LIKE",
+        "id": "5a395ba8fa87df000115f62c",
+        "timestamp": 1513708456344
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.4,
+            "timestamp": 1513708498753
+        },
+        "type": "USER_LIKE",
+        "id": "5a395bd7fa87df000115f632",
+        "timestamp": 1513708503535
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 1,
+            "timestamp": 1513708568702
+        },
+        "type": "USER_LIKE",
+        "id": "5a395c19fa87df000115f63d",
+        "timestamp": 1513708569874
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "9532326214adc358",
+            "value": 0.6,
+            "timestamp": 1513708641405
+        },
+        "type": "USER_LIKE",
+        "id": "5a395c63fa87df000115f64c",
+        "timestamp": 1513708643571
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "7a1e8970d8b9c101",
+            "value": 0.8,
+            "timestamp": 1513708655577
+        },
+        "type": "USER_LIKE",
+        "id": "5a395c71fa87df000115f653",
+        "timestamp": 1513708657434
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "7a1e8970d8b9c101",
+            "value": 1,
+            "timestamp": 1513708661163
+        },
+        "type": "USER_LIKE",
+        "id": "5a395c76fa87df000115f655",
+        "timestamp": 1513708662136
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 1,
+            "timestamp": 1513708660524
+        },
+        "type": "USER_LIKE",
+        "id": "5a395c78fa87df000115f657",
+        "timestamp": 1513708664626
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "211641fc70293302",
+            "value": 1,
+            "timestamp": 1513708680988
+        },
+        "type": "USER_LIKE",
+        "id": "5a395c8cfa87df000115f659",
+        "timestamp": 1513708684263
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "c174444f99dea046",
+            "value": 0.2,
+            "timestamp": 1513708729277
+        },
+        "type": "USER_LIKE",
+        "id": "5a395cbcfa87df000115f669",
+        "timestamp": 1513708732498
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "7a1e8970d8b9c101",
+            "value": 1,
+            "timestamp": 1513708732666
+        },
+        "type": "USER_LIKE",
+        "id": "5a395cbdfa87df000115f66a",
+        "timestamp": 1513708733816
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "7a1e8970d8b9c101",
+            "value": 0.6,
+            "timestamp": 1513708755733
+        },
+        "type": "USER_LIKE",
+        "id": "5a395cd7fa87df000115f66d",
+        "timestamp": 1513708759242
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "7a1e8970d8b9c101",
+            "value": 1,
+            "timestamp": 1513708771616
+        },
+        "type": "USER_LIKE",
+        "id": "5a395ce4fa87df000115f671",
+        "timestamp": 1513708772684
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 1,
+            "timestamp": 1513708819683
+        },
+        "type": "USER_LIKE",
+        "id": "5a395d15fa87df000115f676",
+        "timestamp": 1513708821046
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 1,
+            "timestamp": 1513708821951
+        },
+        "type": "USER_LIKE",
+        "id": "5a395d16fa87df000115f677",
+        "timestamp": 1513708822018
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "7a1e8970d8b9c101",
+            "value": 1,
+            "timestamp": 1513708827822
+        },
+        "type": "USER_LIKE",
+        "id": "5a395d1efa87df000115f67b",
+        "timestamp": 1513708830026
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "6b498993fa3f5d1f",
+            "value": 1,
+            "timestamp": 1513708893570
+        },
+        "type": "USER_LIKE",
+        "id": "5a395d5ffa87df000115f68b",
+        "timestamp": 1513708895837
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "ae200714b9e37173",
+            "value": 1,
+            "timestamp": 1513708911050
+        },
+        "type": "USER_LIKE",
+        "id": "5a395d74fa87df000115f68e",
+        "timestamp": 1513708916547
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "b23223591eb8d9a2",
+            "value": 0.8,
+            "timestamp": 1513708931728
+        },
+        "type": "USER_LIKE",
+        "id": "5a395d85fa87df000115f690",
+        "timestamp": 1513708933603
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "65b78c5adf5c8746",
+            "value": 1,
+            "timestamp": 1513708969138
+        },
+        "type": "USER_LIKE",
+        "id": "5a395dabfa87df000115f693",
+        "timestamp": 1513708971718
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "c174444f99dea046",
+            "value": 1,
+            "timestamp": 1513708971014
+        },
+        "type": "USER_LIKE",
+        "id": "5a395dacfa87df000115f695",
+        "timestamp": 1513708972139
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "ae200714b9e37173",
+            "value": 1,
+            "timestamp": 1513708999011
+        },
+        "type": "USER_LIKE",
+        "id": "5a395dccfa87df000115f698",
+        "timestamp": 1513709004237
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "6b498993fa3f5d1f",
+            "value": 1,
+            "timestamp": 1513709028582
+        },
+        "type": "USER_LIKE",
+        "id": "5a395de6fa87df000115f69c",
+        "timestamp": 1513709030878
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.6,
+            "timestamp": 1513709084160
+        },
+        "type": "USER_LIKE",
+        "id": "5a395e1dfa87df000115f6a5",
+        "timestamp": 1513709085976
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.2,
+            "timestamp": 1513709118842
+        },
+        "type": "USER_LIKE",
+        "id": "5a395e41fa87df000115f6ac",
+        "timestamp": 1513709121165
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "1d024cbab5ff4490",
+            "value": 0.8,
+            "timestamp": 1513709139797
+        },
+        "type": "USER_LIKE",
+        "id": "5a395e56fa87df000115f6b1",
+        "timestamp": 1513709142574
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 0.8,
+            "timestamp": 1513709202297
+        },
+        "type": "USER_LIKE",
+        "id": "5a395e93fa87df000115f6ba",
+        "timestamp": 1513709203961
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 0.6,
+            "timestamp": 1513709210001
+        },
+        "type": "USER_LIKE",
+        "id": "5a395e9cfa87df000115f6bb",
+        "timestamp": 1513709212165
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.8,
+            "timestamp": 1513709369613
+        },
+        "type": "USER_LIKE",
+        "id": "5a395f3afa87df000115f6d0",
+        "timestamp": 1513709370689
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 1,
+            "timestamp": 1513709391584
+        },
+        "type": "USER_LIKE",
+        "id": "5a395f50fa87df000115f6d6",
+        "timestamp": 1513709392801
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "9532326214adc358",
+            "value": 0.6,
+            "timestamp": 1513709396966
+        },
+        "type": "USER_LIKE",
+        "id": "5a395f59fa87df000115f6d7",
+        "timestamp": 1513709401853
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "211641fc70293302",
+            "value": 0.6,
+            "timestamp": 1513709431264
+        },
+        "type": "USER_LIKE",
+        "id": "5a395f79fa87df000115f6df",
+        "timestamp": 1513709433220
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "b23223591eb8d9a2",
+            "value": 0.6,
+            "timestamp": 1513709548281
+        },
+        "type": "USER_LIKE",
+        "id": "5a395feefa87df000115f6e9",
+        "timestamp": 1513709550324
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "381551a3be844713",
+            "value": 0.8,
+            "timestamp": 1513709571603
+        },
+        "type": "USER_LIKE",
+        "id": "5a396002fa87df000115f6eb",
+        "timestamp": 1513709570701
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "ae200714b9e37173",
+            "value": 1,
+            "timestamp": 1513709573980
+        },
+        "type": "USER_LIKE",
+        "id": "5a39600bfa87df000115f6ec",
+        "timestamp": 1513709579774
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "b23223591eb8d9a2",
+            "value": 0.8,
+            "timestamp": 1513709726519
+        },
+        "type": "USER_LIKE",
+        "id": "5a3960a0fa87df000115f700",
+        "timestamp": 1513709728297
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39384861414b0001f14af1",
+            "userId": "b23223591eb8d9a2",
+            "value": 0.8,
+            "timestamp": 1513709727790
+        },
+        "type": "USER_LIKE",
+        "id": "5a3960a0fa87df000115f701",
+        "timestamp": 1513709728852
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39579461414b0001f14b01",
+            "userId": "1d024cbab5ff4490",
+            "value": 1,
+            "timestamp": 1513709740415
+        },
+        "type": "USER_LIKE",
+        "id": "5a3960b0fa87df000115f704",
+        "timestamp": 1513709744016
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39579461414b0001f14b01",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 0.8,
+            "timestamp": 1513709773180
+        },
+        "type": "USER_LIKE",
+        "id": "5a3960d0fa87df000115f707",
+        "timestamp": 1513709776777
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "4e6c40c5436d5f4c",
+            "value": 0.6,
+            "timestamp": 1513709779944
+        },
+        "type": "USER_LIKE",
+        "id": "5a3960d8fa87df000115f708",
+        "timestamp": 1513709784101
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513709943776
+        },
+        "type": "USER_LIKE",
+        "id": "5a396176fa87df000115f718",
+        "timestamp": 1513709942799
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "381551a3be844713",
+            "value": 0.8,
+            "timestamp": 1513709951373
+        },
+        "type": "USER_LIKE",
+        "id": "5a39617dfa87df000115f719",
+        "timestamp": 1513709949543
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395abf61414b0001f14b03",
+            "userId": "381551a3be844713",
+            "value": 0.8,
+            "timestamp": 1513709952798
+        },
+        "type": "USER_LIKE",
+        "id": "5a39617efa87df000115f71a",
+        "timestamp": 1513709950462
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562861414b0001f14aff",
+            "userId": "dc5bf415341bf912",
+            "value": 0.6,
+            "timestamp": 1513710000649
+        },
+        "type": "USER_LIKE",
+        "id": "5a3961b8fa87df000115f71e",
+        "timestamp": 1513710008310
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395eb561414b0001f14b05",
+            "userId": "381551a3be844713",
+            "value": 0.6,
+            "timestamp": 1513710014973
+        },
+        "type": "USER_LIKE",
+        "id": "5a3961bcfa87df000115f721",
+        "timestamp": 1513710012428
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395f3461414b0001f14b07",
+            "userId": "381551a3be844713",
+            "value": 0.8,
+            "timestamp": 1513710039391
+        },
+        "type": "USER_LIKE",
+        "id": "5a3961d6fa87df000115f72b",
+        "timestamp": 1513710038700
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562861414b0001f14aff",
+            "userId": "6b498993fa3f5d1f",
+            "value": 1,
+            "timestamp": 1513710100466
+        },
+        "type": "USER_LIKE",
+        "id": "5a396217fa87df000115f736",
+        "timestamp": 1513710103743
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395fbf61414b0001f14b0b",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513710122803
+        },
+        "type": "USER_LIKE",
+        "id": "5a396228fa87df000115f73a",
+        "timestamp": 1513710120228
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562861414b0001f14aff",
+            "userId": "6b498993fa3f5d1f",
+            "value": 0.8,
+            "timestamp": 1513710129720
+        },
+        "type": "USER_LIKE",
+        "id": "5a396234fa87df000115f73c",
+        "timestamp": 1513710132940
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562861414b0001f14aff",
+            "userId": "c174444f99dea046",
+            "value": 1,
+            "timestamp": 1513710148590
+        },
+        "type": "USER_LIKE",
+        "id": "5a396245fa87df000115f745",
+        "timestamp": 1513710149644
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39560f61414b0001f14afb",
+            "userId": "f816c4543b753fcf",
+            "value": 0.8,
+            "timestamp": 1513710400117
+        },
+        "type": "USER_LIKE",
+        "id": "5a396343fa87df000115f75a",
+        "timestamp": 1513710403992
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39357361414b0001f14ae7",
+            "userId": "ae200714b9e37173",
+            "value": 0.8,
+            "timestamp": 1513710497323
+        },
+        "type": "USER_LIKE",
+        "id": "5a3963a6fa87df000115f760",
+        "timestamp": 1513710502368
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39357361414b0001f14ae7",
+            "userId": "b23223591eb8d9a2",
+            "value": 0.8,
+            "timestamp": 1513710544810
+        },
+        "type": "USER_LIKE",
+        "id": "5a3963d2fa87df000115f765",
+        "timestamp": 1513710546819
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39393061414b0001f14af5",
+            "userId": "67ffeec1d19c0440",
+            "value": 0.8,
+            "timestamp": 1513710562492
+        },
+        "type": "USER_LIKE",
+        "id": "5a3963eafa87df000115f766",
+        "timestamp": 1513710570163
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562861414b0001f14aff",
+            "userId": "1d024cbab5ff4490",
+            "value": 0.6,
+            "timestamp": 1513710648894
+        },
+        "type": "USER_LIKE",
+        "id": "5a39643bfa87df000115f774",
+        "timestamp": 1513710651841
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562861414b0001f14aff",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 0.6,
+            "timestamp": 1513710706368
+        },
+        "type": "USER_LIKE",
+        "id": "5a396475fa87df000115f77b",
+        "timestamp": 1513710709573
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562061414b0001f14afd",
+            "userId": "67ffeec1d19c0440",
+            "value": 0.4,
+            "timestamp": 1513710932165
+        },
+        "type": "USER_LIKE",
+        "id": "5a39655bfa87df000115f785",
+        "timestamp": 1513710939545
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39393061414b0001f14af5",
+            "userId": "c174444f99dea046",
+            "value": 1,
+            "timestamp": 1513711055385
+        },
+        "type": "USER_LIKE",
+        "id": "5a3965d1fa87df000115f78b",
+        "timestamp": 1513711057333
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39560f61414b0001f14afb",
+            "userId": "b23223591eb8d9a2",
+            "value": 0.6,
+            "timestamp": 1513711110006
+        },
+        "type": "USER_LIKE",
+        "id": "5a39660afa87df000115f797",
+        "timestamp": 1513711114329
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39291761414b0001fc7c3f",
+            "userId": "9532326214adc358",
+            "value": 0.6,
+            "timestamp": 1513711108890
+        },
+        "type": "USER_LIKE",
+        "id": "5a39660bfa87df000115f799",
+        "timestamp": 1513711115569
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39560f61414b0001f14afb",
+            "userId": "ae200714b9e37173",
+            "value": 0.6,
+            "timestamp": 1513711124757
+        },
+        "type": "USER_LIKE",
+        "id": "5a39661bfa87df000115f79a",
+        "timestamp": 1513711131147
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39393061414b0001f14af5",
+            "userId": "dc5bf415341bf912",
+            "value": 1,
+            "timestamp": 1513711128924
+        },
+        "type": "USER_LIKE",
+        "id": "5a39661efa87df000115f79b",
+        "timestamp": 1513711134169
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "f816c4543b753fcf",
+            "value": 0.8,
+            "timestamp": 1513711276862
+        },
+        "type": "USER_LIKE",
+        "id": "5a3966b0fa87df000115f7a7",
+        "timestamp": 1513711280005
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "f816c4543b753fcf",
+            "value": 0.8,
+            "timestamp": 1513711279216
+        },
+        "type": "USER_LIKE",
+        "id": "5a3966c4fa87df000115f7a8",
+        "timestamp": 1513711300335
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562061414b0001f14afd",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513711347490
+        },
+        "type": "USER_LIKE",
+        "id": "5a3966f1fa87df000115f7ad",
+        "timestamp": 1513711345797
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562061414b0001f14afd",
+            "userId": "381551a3be844713",
+            "value": 0.4,
+            "timestamp": 1513711475254
+        },
+        "type": "USER_LIKE",
+        "id": "5a396771fa87df000115f7b4",
+        "timestamp": 1513711473659
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.6,
+            "timestamp": 1513711690617
+        },
+        "type": "USER_LIKE",
+        "id": "5a39684bfa87df000115f7bd",
+        "timestamp": 1513711691925
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "1d024cbab5ff4490",
+            "value": 0.6,
+            "timestamp": 1513711703898
+        },
+        "type": "USER_LIKE",
+        "id": "5a39685afa87df000115f7be",
+        "timestamp": 1513711706568
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "1d024cbab5ff4490",
+            "value": 0.8,
+            "timestamp": 1513711704901
+        },
+        "type": "USER_LIKE",
+        "id": "5a39685afa87df000115f7bf",
+        "timestamp": 1513711706828
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "1d024cbab5ff4490",
+            "value": 1,
+            "timestamp": 1513711705320
+        },
+        "type": "USER_LIKE",
+        "id": "5a39685bfa87df000115f7c0",
+        "timestamp": 1513711706997
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "1d024cbab5ff4490",
+            "value": 0.8,
+            "timestamp": 1513711706825
+        },
+        "type": "USER_LIKE",
+        "id": "5a39685bfa87df000115f7c1",
+        "timestamp": 1513711707950
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 1,
+            "timestamp": 1513711705662
+        },
+        "type": "USER_LIKE",
+        "id": "5a39685cfa87df000115f7c2",
+        "timestamp": 1513711708566
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562061414b0001f14afd",
+            "userId": "381551a3be844713",
+            "value": 0.4,
+            "timestamp": 1513711849888
+        },
+        "type": "USER_LIKE",
+        "id": "5a3968e7fa87df000115f7cd",
+        "timestamp": 1513711847609
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39369a61414b0001f14ae9",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513711889131
+        },
+        "type": "USER_LIKE",
+        "id": "5a396910fa87df000115f7d0",
+        "timestamp": 1513711888533
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39393061414b0001f14af5",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513712487684
+        },
+        "type": "USER_LIKE",
+        "id": "5a396b66fa87df000115f7d8",
+        "timestamp": 1513712486058
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562061414b0001f14afd",
+            "userId": "381551a3be844713",
+            "value": 0.4,
+            "timestamp": 1513713166045
+        },
+        "type": "USER_LIKE",
+        "id": "5a396e0dfa87df000115f7e4",
+        "timestamp": 1513713165420
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "211641fc70293302",
+            "value": 1,
+            "timestamp": 1513713269060
+        },
+        "type": "USER_LIKE",
+        "id": "5a396e78fa87df000115f7ea",
+        "timestamp": 1513713272043
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39369a61414b0001f14ae9",
+            "userId": "381551a3be844713",
+            "value": 0.4,
+            "timestamp": 1513713305693
+        },
+        "type": "USER_LIKE",
+        "id": "5a396e98fa87df000115f7ec",
+        "timestamp": 1513713304649
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395f3461414b0001f14b07",
+            "userId": "67ffeec1d19c0440",
+            "value": 0.6,
+            "timestamp": 1513713797590
+        },
+        "type": "USER_LIKE",
+        "id": "5a397089fa87df000115f7fa",
+        "timestamp": 1513713801242
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "43d6a2cbdb4f659a",
+            "value": 1,
+            "timestamp": 1513714273530
+        },
+        "type": "USER_LIKE",
+        "id": "5a397265fa87df000115f800",
+        "timestamp": 1513714277090
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "1d024cbab5ff4490",
+            "value": 0.6,
+            "timestamp": 1513714257329
+        },
+        "type": "USER_LIKE",
+        "id": "5a397284fa87df000115f801",
+        "timestamp": 1513714308361
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.6,
+            "timestamp": 1513714261575
+        },
+        "type": "USER_LIKE",
+        "id": "5a397285fa87df000115f802",
+        "timestamp": 1513714309278
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.6,
+            "timestamp": 1513714411386
+        },
+        "type": "USER_LIKE",
+        "id": "5a3972ecfa87df000115f80d",
+        "timestamp": 1513714412967
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc561414b0001fc7c4b",
+            "userId": "381551a3be844713",
+            "value": 1,
+            "timestamp": 1513715058573
+        },
+        "type": "USER_LIKE",
+        "id": "5a397570fa87df000115f824",
+        "timestamp": 1513715056341
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a392cc361414b0001fc7c45",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.8,
+            "timestamp": 1513715261623
+        },
+        "type": "USER_LIKE",
+        "id": "5a397640fa87df000115f827",
+        "timestamp": 1513715264256
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39579461414b0001f14b01",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.6,
+            "timestamp": 1513715298134
+        },
+        "type": "USER_LIKE",
+        "id": "5a397663fa87df000115f82c",
+        "timestamp": 1513715299754
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39350c61414b0001f14ae3",
+            "userId": "6cf9cebf7b50d4c8",
+            "value": 0.8,
+            "timestamp": 1513715355953
+        },
+        "type": "USER_LIKE",
+        "id": "5a39769efa87df000115f830",
+        "timestamp": 1513715358446
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395f3461414b0001f14b07",
+            "userId": "7a1e8970d8b9c101",
+            "value": 1,
+            "timestamp": 1513716060323
+        },
+        "type": "USER_LIKE",
+        "id": "5a39795efa87df000115f837",
+        "timestamp": 1513716062386
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a396b4161414b0001f14b1f",
+            "userId": "4e6c40c5436d5f4c",
+            "value": 0.6,
+            "timestamp": 1513744674145
+        },
+        "type": "USER_LIKE",
+        "id": "5a39e926fa87df000115f851",
+        "timestamp": 1513744678088
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a39562061414b0001f14afd",
+            "userId": "4e6c40c5436d5f4c",
+            "value": 0.8,
+            "timestamp": 1513744756263
+        },
+        "type": "USER_LIKE",
+        "id": "5a39e976fa87df000115f855",
+        "timestamp": 1513744758379
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a3954b561414b0001f14af9",
+            "userId": "53c2968cc456f723",
+            "value": 0.6,
+            "timestamp": 1513793617081
+        },
+        "type": "USER_LIKE",
+        "id": "5a3aa853fa87df00012dd9ee",
+        "timestamp": 1513793619354
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a395f3461414b0001f14b07",
+            "userId": "53c2968cc456f723",
+            "value": 0.4,
+            "timestamp": 1513796038986
+        },
+        "type": "USER_LIKE",
+        "id": "5a3ab1c8fa87df00012dd9f9",
+        "timestamp": 1513796040438
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a390c1b61414b0001fc7c3b",
+            "userId": "3e3fd899d9bed3a4",
+            "value": 1,
+            "timestamp": 1513804722819
+        },
+        "type": "USER_LIKE",
+        "id": "5a3ad3b4fa87df00012dda00",
+        "timestamp": 1513804724226
+    },
+    {
+        "source": "INTERACTION_OBSERVER",
+        "payload": {
+            "itemId": "5a390c1b61414b0001fc7c3b",
+            "userId": "65b78c5adf5c8746",
+            "value": 1,
+            "timestamp": 1513804770389
+        },
+        "type": "USER_LIKE",
+        "id": "5a3ad3e5fa87df00012dda02",
+        "timestamp": 1513804773138
+    }
+]
